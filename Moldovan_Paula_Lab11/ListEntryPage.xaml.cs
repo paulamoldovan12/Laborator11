@@ -1,3 +1,5 @@
+using Moldovan_Paula_Lab11.Models;
+
 namespace Moldovan_Paula_Lab11;
 
 public partial class ListEntryPage : ContentPage
